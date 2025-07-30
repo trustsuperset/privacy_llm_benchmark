@@ -1,0 +1,24 @@
+# of Questions,Exam,Domain Number,Domain Name,claude-3.5-haiku,claude-3.7-sonnet,deepseek-r1,meta-llama-3-8b,meta-llama-3-70b,o1,o4 mini,gemini 1.5,gemini 2.5,gemma 3-27b
+100,AIGP,All,,84,89,91,72,87,89,88,92,93,90
+90,CIPM,All,,74,82,46,52,76,79,75,79,83,81
+18,CIPM,1,Privacy Program: Developing a Framework,15,15,9,12,16,16,16,16,17,16
+14,CIPM,2,Privacy Program: Establishing Program Governance,14,14,8,8,14,13,13,12,14,13
+20,CIPM,3,Privacy Operational Life Cycle: Assessing Data,18,18,14,14,16,18,15,16,18,17
+15,CIPM,4,Privacy Operational Life Cycle: Protecting Personal Data,11,14,4,8,13,14,14,12,14,12
+6,CIPM,5,Privacy Operational Life Cycle: Sustaining Program Governance,5,5,3,3,5,5,5,6,5,5
+17,CIPM,6,Privacy Operational Life Cycle: Responding to Requests and Incidents,12,16,8,8,14,15,15,14,15,14
+90,CIPP/US,All,,72,82,78,57,73,82,78,79,81,76
+35,CIPP/US,1,Introduction to the U.S. Privacy Environment,30,33,30,26,30,31,31,31,31,31
+25,CIPP/US,2,Limits on Private-sector Collection and Use of Data,16,20,18,16,18,20,18,19,18,18
+6,CIPP/US,3,Government and Court Access to Private-sector Information,5,6,5,5,5,6,5,6,5,5
+10,CIPP/US,4,Workplace Privacy,9,10,10,7,9,10,10,10,10,10
+14,CIPP/US,5,State Privacy Laws,9,11,11,5,9,10,9,10,10,8
+90,CIPT,All,,75,72,83,60,75,76,76,78,83,76
+15,CIPT,1,Foundational Principles,13,11,15,9,14,13,14,12,13,12
+7,CIPT,2,The Privacy Technologist's Role in the Context of the Organization,4,3,4,3,3,4,3,4,4,4
+20,CIPT,3,"Privacy Risks, Threats and Violations",14,16,14,12,13,15,14,13,16,15
+12,CIPT,4,"Privacy-Enhancing Strategies, Techniques and Technologies",6,7,8,4,6,7,8,7,8,7
+11,CIPT,5,Privacy by Design,10,10,11,9,10,11,11,10,11,10
+14,CIPT,6,Privacy Engineering,10,10,11,8,12,9,10,11,11,10
+11,CIPT,7,Evolving or Emerging Technologies in Privacy,4,4,6,6,6,5,6,5,5,4
+370,Aggregate,,,305,325,298,241,311,326,317,328,340,323
