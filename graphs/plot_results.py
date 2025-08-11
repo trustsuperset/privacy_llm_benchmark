@@ -360,16 +360,16 @@ def create_aggregate_bar_chart():
 # exam_name = 'AIGP'
 # exam_name = 'CIPM'
 # exam_name = 'CIPP/US'
-exam_name = 'CIPT'
-# exam_name = 'Aggregate'
+# exam_name = 'CIPT'
+exam_name = 'Aggregate'
 
 # Create the bar chart
 # create_bar_chart(exam_name)
 
 # Create star chart for all models
-create_star_chart(exam_name)
+# create_star_chart(exam_name)
 
 # Create exam comparison star chart
-# create_exam_comparison_star_chart()
+create_exam_comparison_star_chart()
 
 # create_aggregate_bar_chart()
